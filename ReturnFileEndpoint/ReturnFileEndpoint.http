@@ -1,0 +1,6 @@
+@ReturnFileEndpoint_HostAddress = http://localhost:5098
+
+GET {{ReturnFileEndpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
